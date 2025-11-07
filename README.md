@@ -9,8 +9,8 @@ https://motchallenge.net/data/MOT16/
 
 # Requirements
 Python 3.x
-ultralytics
-supervision
+Ultralytics
+Supervision
 OpenCV
 NumPy
 Matplotlib
